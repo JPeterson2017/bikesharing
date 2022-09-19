@@ -4,11 +4,32 @@
 The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines would be a wise business decision, using visualizations. 
 
 ## Results
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-![PhotoFileName!](/Resources/photo_file.png)
+See each image below, followed by a description, for a review of the results:
 
+![Story 1](/Resources/Story_1.PNG)
+The Majority of Bike Rides are less than 10 minutes in duration.
+
+![Story 2](/Resources/Story_2.PNG)
+Males make up the majority of Bike Rides.
+
+![Story 3](/Resources/Story_3.PNG)
+It is safe to say that most Rides are for the purpose of commuting to and from work. 
+
+![Story 4](/Resources/Story_4.PNG)
+Male Riders use bikeshare to communit to and from work, but they also use it for leasure activities during the day on weekends. 
+
+![Story 5](/Resources/Story_5.PNG)
+The largest majority of Subscribers are Male. 
+
+![Story 6](/Resources/Story_6.PNG)
+The peak hours for rides in August are between 5pm & 7pm. 
+
+![Story 7](/Resources/Story_7.PNG)
+The majority of all rides are completed by Males. 
 
 ## Summary
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-  * 81.07% of all Rides were completed by Subscribers
+  * 81.07% of all Rides were completed by Subscribers.
+  * The bikeshare is located in a city, where people can easily use the service to both commute to work, as well as commute to social activities on the weekends.
+  * If a rider is not a subscriber, there is a good chance that their gender is not known.
   * Largest Revenue Opportunity would be found amongst riders born in 1969. They make up 42.9% of all "Customer" Rides. 98% of these did not provide their Gender. 
