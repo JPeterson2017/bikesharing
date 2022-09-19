@@ -33,3 +33,7 @@ Provide a high-level summary of the results and two additional visualizations th
   * The bikeshare is located in a city, where people can easily use the service to both commute to work, as well as commute to social activities on the weekends.
   * If a rider is not a subscriber, there is a good chance that their gender is not known.
   * Largest Revenue Opportunity would be found amongst riders born in 1969. They make up 42.9% of all "Customer" Rides. 98% of these did not provide their Gender. 
+  * I would suggest further investigating rides completed by those that are not subscribers, including the frequency of their rides and the locations of where they are riding to and from. 
+  
+  The Tableau report can be found here:
+  [link to Dashboard](https://public.tableau.com/views/CitiBikeStory_16624563558370/CitiBikeDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
